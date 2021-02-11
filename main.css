@@ -73,3 +73,9 @@ nav .navbar-brand > .lite {
   margin-bottom: 44px;
 }
 
+footer {
+  background-color: rgb(233, 235, 240);
+  padding: 36px 0;
+  border-top: 1px solid rgb(228, 229, 234);
+  font-size: 14px;
+}
