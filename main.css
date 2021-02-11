@@ -40,3 +40,27 @@ nav .navbar-brand > .lite {
   color: rgb(87, 161, 182);
 }
 
+.worksContainer {
+  padding-top: 32px;
+  margin-bottom: 24px;
+}
+
+.worksContainer .row .col-sm {
+  margin-bottom: 40px;
+}
+
+.worksContainer img {
+  width: 100%;
+}
+
+.worksContainer button {
+  display: block;
+  margin: 0 auto;
+  height: 72px;
+  padding: 0 24px;
+  background-color: rgb(136, 218, 230);
+  color: black;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+}
