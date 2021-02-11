@@ -21,3 +21,22 @@ nav .navbar-brand > .lite {
   padding-bottom: 112px;
   background-color: rgb(153, 226, 235);
 }
+
+.featuresContainer {
+  background-color: rgb(233, 235, 240);
+  padding-top: 70px;
+  padding-bottom: 20px;
+}
+
+.featuresContainer .row .col-sm {
+  padding-bottom: 40px;
+}
+
+.featuresContainer p, .featuresContainer a {
+  font-size: 12px;
+}
+
+.featuresContainer a {
+  color: rgb(87, 161, 182);
+}
+
