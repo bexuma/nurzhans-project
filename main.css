@@ -64,3 +64,12 @@ nav .navbar-brand > .lite {
   border: none;
   border-radius: 8px;
 }
+
+.testimonialsContainer {
+  padding-bottom: 38px;
+}
+
+.testimonialsContainer p {
+  margin-bottom: 44px;
+}
+
