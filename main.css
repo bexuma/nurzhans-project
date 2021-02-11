@@ -1,0 +1,18 @@
+nav .navbar-brand {
+  font-size: 52px;
+}
+
+nav .navbar-brand > .lite {
+  color: rgb(87, 161, 182);
+}
+
+.nav-item > a {
+  color: black !important;
+  font-weight: bold;
+  padding: 8px 24px !important;
+}
+
+.nav-item.active > a {
+  color: rgb(87, 161, 182) !important;
+}
+
