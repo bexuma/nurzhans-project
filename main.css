@@ -16,3 +16,8 @@ nav .navbar-brand > .lite {
   color: rgb(87, 161, 182) !important;
 }
 
+.carouselContainer {
+  padding-top: 60px;
+  padding-bottom: 112px;
+  background-color: rgb(153, 226, 235);
+}
